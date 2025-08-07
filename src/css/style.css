@@ -28,9 +28,13 @@
     padding: 0px;
 }
 body {
+    background-image: url('../imagens/fundo-medicinal.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
     background-color: var(--cor0);
 }
 header {
+    
     background-color: var(--cor4);
     min-height: 150px;
     text-align: center;
