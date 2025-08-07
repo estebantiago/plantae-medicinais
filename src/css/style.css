@@ -30,7 +30,8 @@
 body {
     background-image: url('../imagens/fundo-medicinal.jpg');
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-position: center center;
+    background-size: cover;
     background-color: var(--cor0);
 }
 header {
@@ -106,7 +107,7 @@ nav > a:hover {
 main {
 
     background-color: white;
-    min-width: 400px;
+   
     max-width: 900px;
     margin: auto;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.486);
